@@ -1,4 +1,4 @@
-#%%
+#!!
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.stats as stats
@@ -9,8 +9,7 @@ import spark
 import boto3
 ## Кава з вафлями
 
-
-#%%
+#!!
 #df=pd.read_csv('/Users/denistkachenko/Documents/marketing_AB.csv')
 #df.head()
 
